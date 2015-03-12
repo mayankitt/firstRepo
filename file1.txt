@@ -1,0 +1,1 @@
+This is another dummy file to be staged and pushed to the remote repository through Git Shell.
